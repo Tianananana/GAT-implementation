@@ -1,4 +1,4 @@
-
+# Graph Attention Networks Implementation
 
 Code prototype of Graph Attention Networks from Velickovic et al, 2018. GNN model is found under Model folder. Following the paper, a transductive and inductive version of GNN was implemented using the basic attention block. 
 
